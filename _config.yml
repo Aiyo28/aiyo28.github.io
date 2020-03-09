@@ -1,0 +1,69 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site settings
+title: "Ayal Nogovitsyn"
+description: > # this means to ignore newlines until "email:"
+   Data Science Portfolio
+
+email: ayal.nogovitsyn@gmail.com
+#blog logo
+logo: "/assets/images/profile01.png"
+float_logo: false # true, false (default)
+
+# blog cover
+cover: "/assets/images/background_image.jpg"
+
+name: 'Ayal Nogovitsyn'
+author: 'Ayal Nogovitsyn'
+author_image: "/assets/images/profile.jpg"
+
+paginate:	5
+
+url: "http://aiyo28.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@aiyo28'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon: linkedin
+    url: https://www.linkedin.com/in/ayal-nogovitsyn-923b92196/
+    desc: Contact me on Linkedin
+
+  - icon:	twitter
+    url:	https://twitter.com/aiyo28
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/aiyo28
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
