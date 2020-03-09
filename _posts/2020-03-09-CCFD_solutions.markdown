@@ -337,7 +337,7 @@ plt.show()
 ```
 
 
-![png](/assets/article_images/2020-03-09-CCFD-solutions/CCFD_solutions_files/CCFD_solutions_11_0.png)
+![png](/assets/article_images/2020-03-09-CCFD-solutions/CCFD_solutions_files/CCFD_solutions_8_0.png)
 
 
 
@@ -370,7 +370,7 @@ plt.show()
 ```
 
 
-![png](/assets/article_images/2020-03-09-CCFD-solutions/CCFD_solutions_files/CCFD_solutions_13_0.png)
+![png](/assets/article_images/2020-03-09-CCFD-solutions/CCFD_solutions_files/CCFD_solutions_10_0.png)
 
 
 
