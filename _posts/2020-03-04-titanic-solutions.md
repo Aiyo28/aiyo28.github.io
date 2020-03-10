@@ -8,7 +8,9 @@ image: /assets/article_images/2020-03-04-titanic-solutions/titanic.jpg
 ---
 
 # Titanic: Machine Learning from Disaster
+
 ### Predict survival on the Titanic
+
 - Defining the problem statement
 - Collecting the data
 - Exploratory data analysis
@@ -18,7 +20,7 @@ image: /assets/article_images/2020-03-04-titanic-solutions/titanic.jpg
 
 ## Download the data
 
-You can download the data for this notebook here: [Titanic](https://www.kaggle.com/c/titanic/data)
+You can download the data for this notebook here: https://www.kaggle.com/c/titanic/data
 
 ## 1. Defining the problem statement
 Complete the analysis of what sorts of people were likely to survive.  
@@ -4056,7 +4058,7 @@ print("Running Time: %s" % datetime.timedelta(seconds=gbt_time))
 
 ### CatBoost Algorithm
 CatBoost is a state-of-the-art open-source gradient boosting on decision trees library.
-For more on CatBoost and the methods it uses to deal with categorical variables, check out the [CatBoost docs](https://catboost.ai/).
+For more, check out the [CatBoost docs](https://catboost.ai/).
 
 
 ```python

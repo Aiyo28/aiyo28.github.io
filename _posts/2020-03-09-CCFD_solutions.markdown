@@ -10,10 +10,10 @@ image: /assets/article_images/2020-03-09-CCFD-solutions/CCFD.jpg
 # Credit Card Fraud Detection
 
 ## Identify fraudulent credit card transactions.
+
 - Defining the problem statement
 - Collecting the data
 - Exploratory data analysis
-
 - Modelling
 - Testing
 
